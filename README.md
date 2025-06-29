@@ -79,3 +79,13 @@ Python 3.6 or newer
 **License**
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+![AutoPlot_1](https://github.com/user-attachments/assets/5b70ed80-b351-4657-aa0e-0478d3925e7a)
+
+![AutoPlot_2](https://github.com/user-attachments/assets/632e39ce-2d68-4107-a02e-0145b500b9cc)
+
+![AutoPlot_3](https://github.com/user-attachments/assets/ae90d12d-590e-4ae2-94f8-46c3344c746f)
+
+
+
