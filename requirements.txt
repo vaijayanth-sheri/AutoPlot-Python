@@ -1,0 +1,8 @@
+PyQt5
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
+PyQtWebEngine
+kaleido
